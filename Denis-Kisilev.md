@@ -1,5 +1,4 @@
 # Тик ток 
-![Без имени](https://github.com/user-attachments/assets/04db37f5-c498-4dff-8ce6-68919d0ade1f)
 
 Тик ток - это **Весёлая** площадка на который выкладывают короткие видео.
 [Открыть](https://www.tiktok.com/ru-RU)    
